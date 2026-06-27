@@ -1,16 +1,54 @@
-# React + Vite
+# EMBER - Premium Restaurant & Bar 🍷
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, luxury dining website built to showcase fine dining, crafted cocktails, and unforgettable evenings. The project emphasizes a premium aesthetic with deep charcoal backgrounds, warm gold accents, and smooth scroll animations.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
+[View Live Website](https://ember-restaurant-demo-xi.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- **Premium Design Aesthetics:** Custom styling using carefully curated color palettes and modern typography (Playfair Display & Inter).
+- **Smooth Animations:** Powered by `framer-motion` for elegant scroll entrances, hover effects, and a dynamic ticker tape.
+- **Mobile Responsive:** Fully functional across desktops, tablets, and mobile devices.
+- **Interactive Components:** Image cards with hover effects, stylized menu sections, and a responsive reservation form.
 
-## React Compiler
+## 🚀 Technologies Used
+- **React 18** (Functional components and hooks)
+- **Vite** (Next-generation frontend tooling)
+- **Framer Motion** (Production-ready animation library)
+- **Lucide React** (Beautiful and consistent icons)
+- **Vanilla CSS** (Custom scoped styling for maximum flexibility and performance)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Local Development
 
-## Expanding the Oxlint configuration
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Harshitdubey-lab/resturant_demo-.git
+   cd resturant_demo-
+   ```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## 📸 Sections Overview
+- **Hero:** Cinematic background with call-to-actions.
+- **Ticker:** Continuous smooth-scrolling announcement text.
+- **Experience:** 4-card grid detailing dining options.
+- **Cocktails:** Deep red section highlighting signature drinks.
+- **Chef Feature:** Wide-screen cinematic parallax-style section.
+- **Gallery:** Elegantly spaced photography grid.
+- **Reservation:** Minimalist booking form.
+
+---
+*Created for EMBER Restaurant & Bar Demonstration.*
